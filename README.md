@@ -1,8 +1,4 @@
-# tesla-gamestop-stock-analysis
-This Jupyter notebook assignment, "Extracting and Visualizing Stock Data," guides learners through extracting stock and revenue data for Tesla and GameStop using yfinance and web scraping, and plotting the results into graphs.
-
-
-# Extracting and Visualizing Stock Data
+# Extracting and Visualizing Stock Data (for Tesla and Gamestop)
 
 ## Project Overview
 Extracting essential data from financial datasets and displaying it visually is a fundamental skill in data science, empowering analysts and stakeholders to make informed decisions[cite: 10]. This project demonstrates an end-to-end data pipeline using Python to extract historical stock prices and quarterly revenue data for major companies (**Tesla** and **GameStop**), clean the datasets, and plot comprehensive comparative charts[cite: 10].
